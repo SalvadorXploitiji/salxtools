@@ -24,7 +24,7 @@ unzip node_modules.zip
 node saltol.js
 ```
 ## Develouper
-```sh
+
 telegram channel : https://t.me/izanamiofficialcyber
 whatsapp channel : https://whatsapp.com/channel/0029Vb0pAOWBlHpkInEvMQ1N
 telegram : https://t.me/joharisalmon
