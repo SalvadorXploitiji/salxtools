@@ -17,7 +17,7 @@ node saltol.js
 ```sh
 apk add git
 apk add nodejs
-apk add nom
+apk add npm
 git clone https://github.com/SalvadorXploitiji/salxtools
 cd salxtools
 unzip node_modules.zip
