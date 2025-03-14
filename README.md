@@ -7,7 +7,7 @@
 pkg install git
 pkg install nodejs
 pkg install npm
-git clone https://github.com/SalvadorXploitiji/saxtools
+git clone https://github.com/SalvadorXploitiji/salxtools
 cd salxtools
 unzip node_modules.zip
 node saltol.js
@@ -18,7 +18,7 @@ node saltol.js
 apk add git
 apk add nodejs
 apk add nom
-git clone https://github.com/SalvadorXploitiji/saxtools
+git clone https://github.com/SalvadorXploitiji/salxtools
 cd salxtools
 unzip node_modules.zip
 node saltol.js
